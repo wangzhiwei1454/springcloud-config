@@ -1,4 +1,4 @@
 config:
-  info: master branch,springcloud-config/config-test.yml version=1 test branch
+  info: config-test.yml version=3 test branch
 server:
   port: 80
